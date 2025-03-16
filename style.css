@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+.top{
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.body p{
+    color: black;
+    float: left;
+    padding: 14px 15px;
+    color: red;
+}
